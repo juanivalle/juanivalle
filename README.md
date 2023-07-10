@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Ignacio Valle</h1>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=700a0a&height=120&section=header"/>
 <h3 align="center">A passionate full-stack developer from Uruguay</h3>
 
 ### 🙋‍♂️ About Me:
