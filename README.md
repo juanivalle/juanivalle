@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Juan Ignacio Valle</h1>
 <h3 align="center">A passionate full-stack developer from Uruguay</h3>
+<div id="header" align="center">
+    <img src="[https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif](https://www.canva.com/design/DAFoP3F90qo/lSTCb6qiBhx2SOCLPosEqA/view?utm_content=DAFoP3F90qo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)" />
+</div>
 
+### 🙋‍♂️ About Me:
+
+- 🔭 I’m currently estuding at Holberton School.
 - 🌱 I’m currently learning **React**
-
+- 💪 I like to learn and superate new chalenges.
 - 📫 How to reach me **juanignaciovalle99@gmail.com**
+- 👥 I am good at teamwork.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
