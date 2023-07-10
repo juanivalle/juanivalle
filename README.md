@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Ignacio Valle</h1>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <h3 align="center">A passionate full-stack developer from Uruguay</h3>
-<div id="header" align="center">
-    <img src="[https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif](https://www.canva.com/design/DAFoP3F90qo/lSTCb6qiBhx2SOCLPosEqA/view?utm_content=DAFoP3F90qo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)" />
-</div>
 
 ### 🙋‍♂️ About Me:
 
