@@ -20,4 +20,4 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanivalle&show_icons=true)](https://github.com/juanivalle)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanivalle&show_icons=true&locale=en" alt="juanivalle" /></p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanivalle&show_icons=true)](https://github.com/juanivalle)
