@@ -21,3 +21,5 @@
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanivalle&show_icons=true)](https://github.com/juanivalle)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanivalle&layout=compact)](https://github.com/juanivalle)
