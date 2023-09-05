@@ -7,7 +7,7 @@
 - 🔭 I’m currently estuding at Holberton School.
 - 🌱 I’m currently learning **React**
 - 💪 I like to learn and superate new chalenges.
-- 📫 How to reach me **juanignaciovalle99@gmail.com**
+- 📫 How to reach me **juanignaciovalle18@gmail.com**
 - 👥 I am good at teamwork.
 
 <h3 align="left">Connect with me:</h3>
